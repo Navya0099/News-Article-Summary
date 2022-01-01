@@ -1,6 +1,16 @@
 # News-Article-Summary
 
 
+
+
+## App preview (Home Page)
+![image](https://user-images.githubusercontent.com/49746090/147853503-c3c2c6ea-6349-43f4-9484-c0d023b80938.png)
+
+### Summary Page 
+![image](https://user-images.githubusercontent.com/49746090/147853484-bcacd84b-d1e9-4134-98ca-c0812d18ed34.png)
+
+
+
 Aim : This app is created to summarize and provide the gist of the news articles on the news website. This reduces the user's amount of time spent to 
 read the all the articles & user can look into summary to find intresting news to scroll down and read full.
 

@@ -96,7 +96,6 @@ torch==1.10.1
 tqdm==4.62.3
 transformers==4.15.0
 Twisted==21.7.0
-twisted-iocpsupport==1.0.2
 typing-extensions
 urllib3==1.26.7
 w3lib==1.22.0
